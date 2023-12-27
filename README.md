@@ -1,5 +1,5 @@
 # README
- >> Messenger <<
+>> Messenger <<
 
 This is a Chat application build in Ruby On Rails (RoR) that includes the most used chatting and sharing features.
 
